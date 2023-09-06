@@ -1,3 +1,5 @@
 Added for caseStudy Sample1 file
 
 Made some changes in Sample1 for conflict in feature2
+
+Made some changes in Sample1 from feature1
